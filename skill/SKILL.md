@@ -1,4 +1,4 @@
-﻿---
+---
 name: "codex-context-stats"
 description: "Report Codex session token usage: tokens currently in context, the model context window size, and conversation totals split into cached vs non-cached input tokens. Use when the user asks about token usage, context size, remaining context, prompt-cache hits, or how many cached/non-cached tokens the current conversation has used."
 metadata:

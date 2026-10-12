@@ -1,0 +1,5 @@
+﻿# Test fixtures
+.test-codex-home/
+.test-repair/
+
+.git-work/
